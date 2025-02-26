@@ -25,6 +25,9 @@
 - 데이터 분석 준전문가 ADsP (2022.03)
 - 사회조사분석사 2급 (2021.08)
 
+## Projects
+프로젝트명 기간 수행기관
+
 ## 🛠️ Skills
 #### Programming Languages
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" />
@@ -34,3 +37,5 @@
 <img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/SAS-%0D33B3.svg?&style=for-the-badge&logo=SAS&logoColor=white" /> <img src="https://img.shields.io/badge/SPSS-%23E97627.svg?&style=for-the-badge&logo=SPSS&logoColor=white" />
 #### Collaboration Tools
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/confluence-%23172B4D.svg?&style=for-the-badge&logo=confluence&logoColor=white" /> <img src="https://img.shields.io/badge/tistory-%23172B4D.svg?&style=for-the-badge&logo=tistory&logoColor=white" /> 
+
+## 📫 Contact
