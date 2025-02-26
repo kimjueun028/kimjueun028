@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=200&section=header&text=Jueun%20Kim&fontSize=50&fontAlign=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=180&section=header&text=Jueun%20Kim&fontSize=50&fontAlign=85)
 
 ## 👋 Profile
 #### 🎓 성신여자대학교 졸업 (2019.03 ~ 2024.02)
